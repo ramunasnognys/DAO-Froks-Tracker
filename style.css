@@ -1,3 +1,10 @@
 body {
   background: teal;
+  
+}
+
+.container {
+  height: 5px;
+  width: 100%;
+  background: yellow;
 }
